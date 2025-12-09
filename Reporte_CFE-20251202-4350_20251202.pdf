@@ -1,0 +1,14 @@
+--- INICIO REPORTE CFE (PDF SIMULADO) ---
+REPORTE DETALLADO DE SOLICITUD
+FOLIO: CFE-20251202-4350
+SOLICITANTE: dpto_compras
+ESTADO: COMPLETADA
+TÍTULO: SOL1
+DESCRIPCIÓN:
+DES1
+
+HISTORIAL DE EVENTOS:
+[2025-12-02 22:43:34] [dpto_compras   ] [CREACION            ] Detalle: Solicitud creada. Estado inicial: RECIBIDA.
+[2025-12-02 23:01:31] [dpto_ti        ] [CAMBIO_ESTADO       ] Detalle: Estado cambiado de RECIBIDA a COMPLETADA
+
+--- FIN REPORTE CFE ---
