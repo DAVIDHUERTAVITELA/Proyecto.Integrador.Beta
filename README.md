@@ -329,3 +329,14 @@ Una vez que el sistema se ejecute sobre una base de datos y una interfaz robusta
 •	RF-A3: Soporte para documentos adjuntos. Integrar la capacidad de que los Solicitantes adjunten evidencia (imágenes, contratos, archivos de Excel) a su solicitud. Esto requiere almacenamiento de archivos (S3, disco duro o BD).
 •	RF-A4: Reportes gráficos y dashboard. Creación de un dashboard visual que muestre el rendimiento del sistema, tiempos promedio de resolución y distribución de la carga de trabajo por responsable (RF15).
 •	RF-A5: Flujos de aprobación jerárquica. Implementar un flujo donde ciertas solicitudes críticas requieran la aprobación de un usuario de nivel superior (como gerencia) antes de pasar al estado "EN_PROCESO" o "COMPLETADA".
+
+
+
+
+
+Producto
+
+1. Video de demostración con los requerimientos cumplidos.
+
+https://youtu.be/6AnUVvbTnWQ
+
